@@ -1,5 +1,6 @@
-package org.example;
+package org.example.MoneyTests;
 
+import org.example.Money.Money;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

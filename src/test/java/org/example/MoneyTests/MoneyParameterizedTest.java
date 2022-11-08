@@ -1,6 +1,6 @@
-package org.example;
+package org.example.MoneyTests;
 
-import org.junit.jupiter.api.Test;
+import org.example.Money.Money;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;

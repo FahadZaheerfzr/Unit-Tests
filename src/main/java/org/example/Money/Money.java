@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Money;
 
 public class Money {
     private final int amount;
